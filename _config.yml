@@ -1,0 +1,11 @@
+title: Parsa Zolfaghar
+description: >-
+  Security engineering, firmware, and red-team debugging notes from the lab.
+  Authorized use only.
+theme: minima
+author:
+  name: Parsa Zolfaghar
+header_pages:
+  - about.md
+# minima tweaks
+show_excerpts: true
